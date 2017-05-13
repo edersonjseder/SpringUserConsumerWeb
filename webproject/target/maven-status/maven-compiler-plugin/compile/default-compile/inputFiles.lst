@@ -1,0 +1,13 @@
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/messages/Messages.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/Application.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/controller/UserController.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/repository/PermissionRepository.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/controller/PermissionController.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/exceptions/KeywordNotFoundException.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/repository/DepartmentRepository.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/controller/DepartmentController.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/endpoint/Path.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/model/User.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/repository/UserRepository.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/model/Department.java
+/root/workspace/webproject/src/main/java/com/skeleton/webproject/model/Permission.java
