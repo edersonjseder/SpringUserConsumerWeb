@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -XX:+AggressiveOpts -Xms256m -Xmx512m -XX:MaxPermSize=256m -XX:+DisableExplicitGC -jar target/*.jar
